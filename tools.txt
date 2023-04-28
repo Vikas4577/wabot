@@ -5,3 +5,4 @@ Docker is popular container
 Ansible is easy to learn
 Kubernets iscontainer orchestration framework
 Agro CD is Kubernets Contunious Deployment Tool
+apple
