@@ -1,3 +1,8 @@
 Git is popular version control system
 Maven is build tool for java
+<<<<<<< HEAD
 Jenkins is popular automation tool
+=======
+Jenkins is popular automation tool
+Docker is popular container
+>>>>>>> parent of dc34b5d (adding maven)
