@@ -1,8 +1,18 @@
 Git is popular version control system
 Maven is build tool for java
 <<<<<<< HEAD
+<<<<<<< HEAD
 Jenkins is popular automation tool
 =======
 Jenkins is popular automation tool
 Docker is popular container
 >>>>>>> parent of dc34b5d (adding maven)
+=======
+Jenkins is popular automation tool
+Docker is popular container
+Ansible is easy to learn
+Kubernets iscontainer orchestration framework
+Agro CD is Kubernets Contunious Deployment Tool
+apple
+orange
+>>>>>>> refs/remotes/origin/main
